@@ -14,6 +14,9 @@ export default function Layout(props) {
             <A href="/ag-grid" class="text-white hover:text-gray-300">AgGrid</A>
             <A href="/counter" class="text-white hover:text-gray-300">Counter</A>
             <A href="/am-chart" class="text-white hover:text-gray-300">AmChart</A>
+            <A href="/dashboard" class="text-white hover:text-gray-300">Dashboard</A>
+            <A href="/login" class="text-white hover:text-gray-300">Login</A>
+            <A href="/post-list" class="text-white hover:text-gray-300">Post List</A>
           </HStack>
         </Container>
       </Box>
